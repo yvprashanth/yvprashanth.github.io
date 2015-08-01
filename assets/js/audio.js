@@ -1,7 +1,7 @@
 var context;
 var source, sourceJs;
 var analyser;
-var url = 'data/coyote.mp3';
+var url = 'data/chaiya.mp3';
 var array = new Array();
 var boost = 0;
 
