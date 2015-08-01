@@ -65,7 +65,7 @@ request.onload = function() {
 
 			$('#info')
 				.fadeOut('normal', function() {
-					$(this).html('<div id="artist"><a class="name" href="https://soundcloud.com/coyotekisses" target="_blank">Coyote Kisses</a><br /><a class="song" href="https://soundcloud.com/coyotekisses/six-shooter" target="_blank">Six shooter</a><br /></div><div><img src="data/coyote_kisses.jpg" width="58" height="58" /></div>');
+					$(this).html('<div id="artist"><a class="name" href="https://soundcloud.com/sardar-akhtar-khan-khoso/chal-chaiya-chaiya-dil-se-hd" target="_blank">Chaiya Chaiya</a><br /><a class="song" href="https://soundcloud.com/sardar-akhtar-khan-khoso/chal-chaiya-chaiya-dil-se-hd" target="_blank">Chaiya Chaiya</a><br /></div><div><img src="data/chaiya.jpeg" width="58" height="58" /></div>');
 				})
 				.fadeIn();
 
