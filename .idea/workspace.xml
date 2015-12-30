@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b5901f4-0762-4f63-8faa-91b7ffdfb561" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main.html" afterPath="$PROJECT_DIR$/main.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/jquery.magnific-popup.js" afterPath="$PROJECT_DIR$/assets/js/jquery.magnific-popup.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="yvprashanth.github.io.iws" />
@@ -34,13 +34,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="main.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.44807693">
-              <caret line="793" column="53" selection-start-line="793" selection-start-column="53" selection-end-line="793" selection-end-column="53" />
+            <state vertical-scroll-proportion="-6.3333335">
+              <caret line="799" column="54" selection-start-line="799" selection-start-column="54" selection-end-line="799" selection-end-column="54" />
               <folding>
                 <element signature="n#style#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jquery.magnific-popup.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/assets/js/jquery.magnific-popup.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="3.101576">
+              <caret line="2059" column="26" selection-start-line="2059" selection-start-column="26" selection-end-line="2059" selection-end-column="26" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -105,7 +117,6 @@
         <option value="$PROJECT_DIR$/assets/js/modernizr.custom.js" />
         <option value="$PROJECT_DIR$/assets/js/bootstrap.min.js" />
         <option value="$PROJECT_DIR$/assets/js/jquery.isotope.js" />
-        <option value="$PROJECT_DIR$/assets/js/jquery.magnific-popup.js" />
         <option value="$PROJECT_DIR$/assets/js/owl.carousel.js" />
         <option value="$PROJECT_DIR$/assets/js/owl.min.js" />
         <option value="$PROJECT_DIR$/assets/js/wow.min.js" />
@@ -117,6 +128,7 @@
         <option value="$PROJECT_DIR$/assets/js/map.js" />
         <option value="$PROJECT_DIR$/assets/js/jquery.js" />
         <option value="$PROJECT_DIR$/main.html" />
+        <option value="$PROJECT_DIR$/assets/js/jquery.magnific-popup.js" />
       </list>
     </option>
   </component>
@@ -472,16 +484,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/jquery.magnific-popup.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.9656357">
-          <caret line="4047" column="13" selection-start-line="4047" selection-start-column="13" selection-end-line="4047" selection-end-column="13" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/js/owl.carousel.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.15463917">
@@ -578,10 +580,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.44807693">
-          <caret line="793" column="53" selection-start-line="793" selection-start-column="53" selection-end-line="793" selection-end-column="53" />
+        <state vertical-scroll-proportion="-6.3333335">
+          <caret line="799" column="54" selection-start-line="799" selection-start-column="54" selection-end-line="799" selection-end-column="54" />
           <folding>
             <element signature="n#style#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/jquery.magnific-popup.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="3.101576">
+          <caret line="2059" column="26" selection-start-line="2059" selection-start-column="26" selection-end-line="2059" selection-end-column="26" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
